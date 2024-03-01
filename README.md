@@ -1,5 +1,6 @@
 # Frontend Mentor - Recipe page
-
+LINK TO VIEW:
+https://frontend-mentor-recipe-page-navy.vercel.app/
 ![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
